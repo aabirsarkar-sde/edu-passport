@@ -1,0 +1,9 @@
+node_modules/
+.git
+.gitignore
+.vercel
+.vscode
+.env.local
+*.log
+.DS_Store
+.idea

@@ -60,9 +60,10 @@
   },
   "scripts": {
     "start": "vite",
-    "build": "vite build --sourcemap",
+    "build": "vite build --out-dir dist --sourcemap",
     "serve": "vite preview"
   },
+  "homepage": ".",
   "eslintConfig": {
     "extends": [
       "react-app",
